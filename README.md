@@ -22,8 +22,3 @@ Hey! I'm Ridhim, or RedstoneGuy. I'm a 10th grade student from India with a pass
 - [Forum Website](https://github.com/RedstoneGuy9248/forum) - A Full forum website build using Node.JS and Express.JS.
 - [Tic Tac Toe](https://github.com/RedstoneGuy9248/tic-tac-toe) - A Tic Tac Toe game build using JavaScript.
 - [Homework List](https://github.com/RedstoneGuy9248/homeworklist) - My first backend project, a basic homework to-do list, which i actually use myself!
-
-### Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedstoneGuy9248&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Ridhim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedstoneGuy9248\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
